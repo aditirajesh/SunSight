@@ -4,7 +4,7 @@ import requests
 from datetime import date,timedelta
 
 def request_data():
-    api_key = "9b5bd2cd0c808cd58f2673a9a5a51a4b"
+    api_key = "YOUR API KEY"
     latitude = 13.082680
     longitude = 80.270721
     today = date.today()
